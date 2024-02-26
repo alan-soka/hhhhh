@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #344747;
+}
+.caja-curriculum {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #81a0a0;
+    border-radius: 8px;
+    box-shadow: 0 0 40px rgb(255, 197, 197);
+    text-align: center;
+}
+h1, h2 {
+
+    color: #680000;
+}
+p {
+    color: #000000;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
